@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<consulting_subset>
+	<data_entry> 
+		<timestamp> 9/29/2021 10:35:44 </timestamp>
+		<!-- cc stands for Current Company -->
+		<!-- nc stands for New Company -->
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> McKinsey </cc_name>
+		<cc_position> Senior Manager </cc_position>
+		<cc_location> Malaysia </ cc_location>
+		<!-- abc stands for annual base compensation in USD -->
+		<cc_abc value = ‘142000’/> 
+		<cc_bonus value = ‘50000’/>
+		<!-- tc stands for total compensation in USD -->
+		<cc_tc value = ‘192000’/>
+		<new_offer> No < /new_offer>
+	</data_entry>	
+	<data_entry> 
+		<timestamp> 9/29/2021 10:42:46</timestamp>
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> Deloitte </cc_name>
+		<cc_position> Analyst </cc_position>
+		<cc_location> United States of America </ cc_location>
+		<cc_abc value = ‘86000’/> 
+		<cc_bonus value = ‘4000’/>
+		<cc_tc value = ‘90000’/>
+		<new_offer> No < /new_offer>
+	</data_entry>
+	<data_entry> 
+		<timestamp> 9/29/2021 10:37:12 </timestamp>
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> PwC </cc_name>
+		<cc_position> Senior Consultant/Senior Associate </cc_position>
+		<cc_location> Australia </ cc_location>
+		<cc_abc value = ‘75000’/> 
+		<cc_bonus value = ‘850’/>
+		<cc_tc value = ‘75850’/>
+		<new_offer> Yes < /new_offer>
+		<!-- no stands for new offer-->
+		<!-- cf stands for consulting firm-->
+		<is_no_from_ a_cf> Yes </is_no_from_a_cf>
+		<highest_compensation> Protiviti </highest_compensation>
+		<nc_position> Senior Consultant/Senior Associate </nc_position> 
+		<nc_location> Australia </nc_location>
+		<nc_abc> 80000 </nc_abc>
+		<nc_bonus> 850 </nc_bonus>
+		<offer_accepted> No </ offer_accepted>	
+	</data_entry>
+	<data_entry> 
+		<timestamp> 9/29/2021 10:53:38</timestamp>
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> Accenture </cc_name>
+		<cc_position> Manager </cc_position>
+		<cc_location> United States of America </ cc_location>
+		<cc_abc value = ‘142000’/> 
+		<cc_bonus value = ‘15000’/>
+		<cc_tc value = ‘157000’/>
+		<new_offer> Yes < /new_offer>
+		<is_no_from_ a_cf> Yes </is_no_from_a_cf>
+		<highest_compensation> West Monroe </highest_compensation>
+		<nc_position> Manager </nc_position> 
+		<nc_location> United States of America </nc_location>
+		<nc_abc> 150000 </nc_abc>
+		<nc_bonus> 10000 </nc_bonus>
+		<offer_accepted> No </ offer_accepted>	
+	</data_entry>
+	<data_entry> 
+		<timestamp> 9/29/2021 10:47:41</timestamp>
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> Deloitte </cc_name>
+		<cc_position> Consultant/Associate </cc_position>
+		<cc_location> India </ cc_location>
+		<cc_abc value = ‘14353’/> 
+		<cc_bonus value = ‘1479’/>
+		<cc_tc value = ‘15832’/>
+		<new_offer> Yes < /new_offer>
+	<is_no_from_ a_cf> No (Industry or other type of non-consulting company) 
+                 </is_no_from_a_cf> 
+		<nc_location> India </nc_location>
+		<nc_abc> 20000 </nc_abc>
+		<nc_bonus> 2000 </nc_bonus>
+		<offer_accepted> Thinking about it </ offer_accepted>	
+	</data_entry>
+	<data_entry> 
+		<timestamp> 9/29/2021 10:57:18 </timestamp>
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> Accenture </cc_name>
+	<cc_position> Managing Director, Principal, Partner, or C-suite   
+	</cc_position>
+		<cc_location> United Kingdom </ cc_location>
+		<cc_abc value = ‘228000’/> 
+		<cc_bonus value = ‘115000’/>
+		<cc_tc value = ‘343000’/>
+		<new_offer> Yes < /new_offer>
+	<is_no_from_ a_cf> Yes </is_no_from_a_cf>
+		<highest_compensation> KPMG </highest_compensation>
+		<nc_position> Managing Director, Principal, Partner, or C-suite 
+		</nc_position>
+		<nc_location> United Kingdom </nc_location>
+		<nc_abc> 336000 </nc_abc>
+		<nc_bonus> 100000 </nc_bonus>
+		<offer_accepted> Yes </ offer_accepted>	
+	</data_entry>
+	<data_entry> 
+		<timestamp> 9/29/2021 12:00:57 </timestamp>
+		<is_cc_a_consulting_firm> Yes </is_cc_a_consulting_firm>
+		<cc_name> BCG </cc_name>
+	<cc_position> Consultant/Associate </cc_position>
+		<cc_location> Finland </ cc_location>
+		<cc_abc value = ‘90500’/> 
+		<cc_bonus value = ‘18000’/>
+		<cc_tc value = ‘108500’/>
+		<new_offer> Yes < /new_offer>
+	<is_no_from_ a_cf> No (Industry or other type of non-consulting company)    
+	</is_no_from_a_cf>
+	<nc_location> Finland <nc_location>
+		<nc_abc> 77000 </nc_abc>
+		<nc_bonus> 0 </nc_bonus>
+		<offer_accepted> Yes </ offer_accepted>	
+	</data_entry>
+	<data_entry> 
+		<timestamp> 9/29/2021 11:49:48 </timestamp>
+		<is_cc_a_consulting_firm> No </is_cc_a_consulting_firm>
+		<cc_location> Italy </ cc_location>
+		<cc_abc value = ‘26000’/> 
+		<cc_bonus value = ‘1200’/>
+		<cc_tc value = ‘27200’/>
+		<new_offer> Yes < /new_offer>
+	<is_no_from_ a_cf> No (Industry or other type of non-consulting company)    
+	</is_no_from_a_cf>
+	<nc_location> Luxembourg <nc_location>
+		<nc_abc> 58000 </nc_abc>
+		<nc_bonus> 10000 </nc_bonus>
+		<offer_accepted> Yes </ offer_accepted>	
+	</data_entry>
+<consulting_subset>
